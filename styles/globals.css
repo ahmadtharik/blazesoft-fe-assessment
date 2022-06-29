@@ -119,7 +119,8 @@ a {
 }
 
 .bookshelf-main-container {
-  margin-top: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   padding: 20px 15px 20px 15px;
   background-color: #fafafa;
   border-radius: 10px;
